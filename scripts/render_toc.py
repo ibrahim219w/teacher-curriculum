@@ -39,14 +39,20 @@ def plan_jobs(books, cache, toc_pages, subject):
     return jobs
 
 
-def render(job):
-    import pymupdf as fitz
+def download(job):
     import requests
-    from PIL import Image, ImageDraw
 
     r = requests.get(job["link"], headers=UA, timeout=600)
     r.raise_for_status()
-    doc = fitz.open(stream=r.content, filetype="pdf")
+    return r.content
+
+
+def render(job, data):
+    """Called on one thread only: PyMuPDF crashes when used from several threads at once."""
+    import pymupdf as fitz
+    from PIL import Image, ImageDraw
+
+    doc = fitz.open(stream=data, filetype="pdf")
     pages = [p for p in job["pages"] if 1 <= p <= doc.page_count]
     sheet = job["mode"] == "sheet"
     images = []
@@ -85,15 +91,18 @@ def main():
     OUT.mkdir(exist_ok=True)
     done, failed = [], []
     with ThreadPoolExecutor(max_workers=6) as ex:
-        for job, result in zip(jobs, ex.map(lambda j: _safe(render, j), jobs)):
-            (done if isinstance(result, dict) else failed).append(result if isinstance(result, dict) else {**job, "error": result})
+        for i in range(0, len(jobs), 6):  # six downloads at a time, rendered one after another
+            chunk = jobs[i:i + 6]
+            for job, data in zip(chunk, ex.map(lambda j: _safe(download, j), chunk)):
+                result = _safe(render, job, data) if isinstance(data, bytes) else data
+                (done if isinstance(result, dict) else failed).append(result if isinstance(result, dict) else {**job, "error": result})
     (OUT / "manifest.json").write_text(json.dumps({"done": done, "failed": failed}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(done)} rendered, {len(failed)} failed")
 
 
-def _safe(fn, job):
+def _safe(fn, *args):
     try:
-        return fn(job)
+        return fn(*args)
     except Exception as e:  # one bad book must not stop the others
         return f"{type(e).__name__}: {e}"
 
