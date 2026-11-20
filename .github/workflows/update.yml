@@ -1,8 +1,7 @@
 name: Update books and curriculum
 
+# Runs only when started by hand: GitHub > Actions > "Update books and curriculum" > Run workflow
 on:
-  schedule:
-    - cron: "0 4 * * *"   # every day, 6 AM Cairo time
   workflow_dispatch:
 
 permissions:
