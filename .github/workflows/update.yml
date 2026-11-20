@@ -1,8 +1,13 @@
-name: Update books and curriculum
+name: Update curriculum
 
-# Runs only when started by hand: GitHub > Actions > "Update books and curriculum" > Run workflow
+# Runs only by hand: Actions -> "Update curriculum" -> Run workflow, then type the subject.
 on:
   workflow_dispatch:
+    inputs:
+      subject:
+        description: "اسم المادة زي ما هو في البرنامج (مثلاً: الرياضيات، العلوم، اللغة العربية)، أو all لكل المواد"
+        required: true
+        default: "الرياضيات"
 
 permissions:
   contents: write
@@ -16,12 +21,15 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install anthropic pypdf requests
-      - run: python scripts/update.py
+      - run: python scripts/update.py "$SUBJECT"
         env:
+          SUBJECT: ${{ inputs.subject }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || { git commit -m "Update math books list and curriculum"; git push; }
+          git diff --cached --quiet || { git commit -m "Update curriculum: $SUBJECT"; git push; }
+        env:
+          SUBJECT: ${{ inputs.subject }}
