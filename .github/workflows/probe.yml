@@ -1,0 +1,23 @@
+name: Test reading book contents
+
+# Test only: reports, for every lesson book, whether its contents can be read from the PDF's
+# bookmarks or text. Uploads the report as an artifact; commits nothing.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pypdf pymupdf requests
+      - run: python scripts/probe_toc.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probe-report
+          path: probe/
