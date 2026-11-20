@@ -20,6 +20,13 @@ from update import ROOT, UA, fetch_books, lesson_books  # noqa: E402
 
 OUT = ROOT / "toc-images"
 SHEET_PAGES = list(range(1, 13))
+END_PAGES = list(range(-12, 0))  # toc-pages.json value "end": the last 12 pages, where some books keep the contents
+
+
+def resolve_pages(pages, count):
+    """Page numbers inside the book; negative ones count from the end (-1 is the last page)."""
+    out = [count + p + 1 if p < 0 else p for p in pages]
+    return [p for p in out if 1 <= p <= count]
 
 
 def plan_jobs(books, cache, toc_pages, subject):
@@ -32,9 +39,10 @@ def plan_jobs(books, cache, toc_pages, subject):
             continue
         pages = toc_pages.get(b["link"])
         n = len(jobs) + 1
+        sheet = not pages or pages == "end"
         jobs.append({**{k: b[k] for k in ("link", "subject", "grade", "term", "title")},
-                     "mode": "pages" if pages else "sheet",
-                     "pages": pages or SHEET_PAGES,
+                     "mode": "sheet" if sheet else "pages",
+                     "pages": (END_PAGES if pages == "end" else SHEET_PAGES) if sheet else pages,
                      "file": f"{n:03d}_{b['grade']}_t{b['term']}.jpg"})
     return jobs
 
@@ -53,7 +61,7 @@ def render(job, data):
     from PIL import Image, ImageDraw
 
     doc = fitz.open(stream=data, filetype="pdf")
-    pages = [p for p in job["pages"] if 1 <= p <= doc.page_count]
+    pages = resolve_pages(job["pages"], doc.page_count)
     sheet = job["mode"] == "sheet"
     images = []
     for p in pages:
