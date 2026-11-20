@@ -143,8 +143,12 @@ def rebuild_curriculum(books, cache):
             continue
         units = []
         for b in group:
-            for u in cache[b["link"]]["units"]:
-                title = u["title"] if len(group) == 1 else f'{b["title"]} - {u["title"]}'
+            entry = cache[b["link"]]
+            # several books for one grade: name the book in front of each unit, unless the
+            # cache entry says the unit titles already tell the books apart (prefix: "")
+            prefix = entry.get("prefix", b["title"] if len(group) > 1 else "")
+            for u in entry["units"]:
+                title = f'{prefix} - {u["title"]}' if prefix else u["title"]
                 units.append({"title": title, "lessons": u["lessons"]})
         grade = cur["grades"].setdefault(g, {"terms": {}})
         if grade["terms"].get(t) != units:
