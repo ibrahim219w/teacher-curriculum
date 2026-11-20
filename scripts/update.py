@@ -31,6 +31,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://studentbooks.moe.gov.eg/Books"
 STAGES = ["Books-Primary", "Books-Preparatory", "Books-sec"]
 UA = {"User-Agent": "teacher-curriculum-sync/1.0"}
+BROWSER_UA = {"User-Agent": "Mozilla/5.0"}
 TOC_PAGES = 16  # the contents page is always inside the first pages of the book
 
 ORD = {"الأول": 1, "الثاني": 2, "الثالث": 3, "الرابع": 4, "الخامس": 5, "السادس": 6}
@@ -93,12 +94,23 @@ def grade_key(g):
     return ("pms".index(g[0]), int(g[1:]))
 
 
+def stage_list(stage):
+    """The ministry's list for one stage. The site refuses GitHub's servers (403), so when the
+    request fails, use the copy saved in ministry/<stage>.json (refreshed from a PC in Egypt)."""
+    try:
+        r = requests.get(f"{SITE}/{stage}/books.json", headers=BROWSER_UA, timeout=60)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        saved = ROOT / "ministry" / f"{stage}.json"
+        print(f"{stage}: ministry site unavailable ({e}); using {saved.relative_to(ROOT).as_posix()}")
+        return json.loads(saved.read_text(encoding="utf-8-sig"))
+
+
 def fetch_books():
     books = []
     for stage in STAGES:
-        r = requests.get(f"{SITE}/{stage}/books.json", headers=UA, timeout=60)
-        r.raise_for_status()
-        for b in r.json():
+        for b in stage_list(stage):
             g = grade_id(b.get("grade", ""))
             if not g or not b.get("link"):
                 continue
