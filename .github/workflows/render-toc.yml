@@ -1,0 +1,30 @@
+name: Render contents pages
+
+# Run by hand. Renders the contents pages of books not yet in toc-cache.json as images, for
+# reading in a Claude Code session. Uploads them as an artifact (kept 90 days); commits nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      subject:
+        description: "اسم المادة، أو all لكل المواد"
+        required: true
+        default: "all"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pymupdf pillow
+      - run: python scripts/render_toc.py "$SUBJECT"
+        env:
+          SUBJECT: ${{ inputs.subject }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: toc-images
+          path: toc-images/
+          retention-days: 90
