@@ -1,6 +1,7 @@
 name: Update curriculum
 
 # Runs only by hand: Actions -> "Update curriculum" -> Run workflow, then type the subject.
+# Rebuilds the curriculum files from toc-cache.json (no AI, no API key).
 on:
   workflow_dispatch:
     inputs:
@@ -20,11 +21,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install anthropic pypdf requests
+      - run: pip install requests
       - run: python scripts/update.py "$SUBJECT"
         env:
           SUBJECT: ${{ inputs.subject }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"

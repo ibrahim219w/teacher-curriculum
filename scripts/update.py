@@ -7,16 +7,15 @@ Run from GitHub Actions ("Update curriculum" -> Run workflow) with the subject n
 
 1. Reads the ministry's books.json for primary, preparatory and secondary and writes books.json
    here with every subject (the app reads the subject list from the ministry the same way).
-2. For every book of the chosen subject not seen before, sends its first pages (where the table of
-   contents is) to Claude, stores the extracted units/lessons in toc-cache.json, and rebuilds that
-   subject's curriculum file. Skipped when ANTHROPIC_API_KEY is not set.
+2. Rebuilds the chosen subject's curriculum file from toc-cache.json, where every book's units and
+   lessons are written after reading its contents page (images from render-toc.yml, read in a
+   Claude Code session). No AI and no API key here. A term with no book in the cache is kept as it
+   is and marked as a draft (grades.<g>.draft = {"<term>": true}).
 3. Writes subjects/index.json: which subjects have a curriculum file, where it is and its version.
 
 Curriculum files: math stays at curriculum.json (older app versions read it there);
 every other subject is subjects/<subject name>.json.
 """
-import base64
-import io
 import json
 import os
 import re
@@ -25,14 +24,12 @@ from datetime import date
 from pathlib import Path
 
 import requests
-from pypdf import PdfReader, PdfWriter
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://studentbooks.moe.gov.eg/Books"
 STAGES = ["Books-Primary", "Books-Preparatory", "Books-sec"]
 UA = {"User-Agent": "teacher-curriculum-sync/1.0"}
 BROWSER_UA = {"User-Agent": "Mozilla/5.0"}
-TOC_PAGES = 16  # the contents page is always inside the first pages of the book
 
 ORD = {"الأول": 1, "الثاني": 2, "الثالث": 3, "الرابع": 4, "الخامس": 5, "السادس": 6}
 STAGE_PREFIX = {"الابتدائي": "p", "الإعدادي": "m", "الثانوي": "s"}
@@ -50,8 +47,12 @@ def subject_of(raw):
     if "رياض" in s:
         return MATH
     s = re.sub(r"\s*باللغة \S+$", "", s)
+    # first and second foreign language are different books, so different subjects
+    level = re.search(r"-\s*لغة أجنبية (أولى|ثانية)", s)
     s = re.split(r"\s*-\s*", s)[0].strip()
     s = re.sub(r"ى(?=\s|$)", "ي", s)
+    if level:
+        return f"{s} - لغة {'أولى' if level.group(1) == 'أولى' else 'ثانية'}"
     if "تكنولوجيا المعلومات" in s:
         return "تكنولوجيا المعلومات والاتصالات"
     if s.startswith("العلوم"):
@@ -137,8 +138,8 @@ def write_json(path, data):
     return True
 
 
-def cur_path(subject):
-    return ROOT / ("curriculum.json" if subject == MATH else f"subjects/{subject}.json")
+def cur_path(subject, root=ROOT):
+    return root / ("curriculum.json" if subject == MATH else f"subjects/{subject}.json")
 
 
 def lesson_books(books, subject):
@@ -147,60 +148,16 @@ def lesson_books(books, subject):
             and b["link"].lower().endswith(".pdf") and not NOT_LESSONS.search(b["title"])]
 
 
-def first_pages_pdf(link):
-    r = requests.get(link, headers=UA, timeout=600)
-    r.raise_for_status()
-    reader = PdfReader(io.BytesIO(r.content))
-    writer = PdfWriter()
-    for page in reader.pages[:TOC_PAGES]:
-        writer.add_page(page)
-    out = io.BytesIO()
-    writer.write(out)
-    return out.getvalue()
-
-
-PROMPT = """These are the first pages of an official Egyptian Ministry of Education textbook: "{title}" ({subject}).
-Find the table of contents (الفهرس / المحتويات / Contents) and list every unit and its lessons in book order.
-Skip front matter and review/exercise pages that are not lessons (for example "تمارين عامة", "اختبار الوحدة", "مراجعة", "Revision").
-Write titles exactly as printed in the book, in the book's own language, without page numbers and without a "الدرس"/"Lesson" numbering prefix.
-Reply with only one JSON object and no other text:
-{{"units": [{{"title": "...", "lessons": ["...", "..."]}}]}}"""
-
-
-def extract_toc(client, pdf_bytes, title, subject):
-    msg = client.beta.messages.create(
-        model="claude-opus-5-5",
-        max_tokens=16000,
-        betas=["server-side-fallback-2026-07-01"],
-        fallbacks="default",
-        messages=[{
-            "role": "user",
-            "content": [
-                {"type": "document", "source": {"type": "base64", "media_type": "application/pdf", "data": base64.standard_b64encode(pdf_bytes).decode()}},
-                {"type": "text", "text": PROMPT.format(title=title, subject=subject)},
-            ],
-        }],
-    )
-    if msg.stop_reason == "refusal":
-        raise RuntimeError("request was declined")
-    text = "".join(b.text for b in msg.content if b.type == "text")
-    m = re.search(r"```(?:json)?\s*(.*?)```", text, re.S)
-    data = json.loads(m.group(1) if m else text[text.index("{"): text.rindex("}") + 1])
-    units = data["units"]
-    if not units or not all(isinstance(u.get("title"), str) and isinstance(u.get("lessons"), list) for u in units):
-        raise RuntimeError("no units found")
-    return units
-
-
 def book_rank(subject, title):
     if subject == MATH:
         return BOOK_ORDER.index(title) if title in BOOK_ORDER else 99
     return 0 if title == subject else 1  # the main book first, then the story/grammar books
 
 
-def rebuild_curriculum(subject, books, cache):
-    """Rebuilds the grades/terms of one subject whose books all have a table of contents."""
-    path = cur_path(subject)
+def rebuild_curriculum(subject, books, cache, root=ROOT):
+    """Rebuilds the grades/terms of one subject whose books all have a table of contents.
+    Terms without a complete set of books in the cache stay as they are, marked as drafts."""
+    path = cur_path(subject, root)
     if path.exists():
         cur = json.loads(path.read_text(encoding="utf-8"))
     else:
@@ -211,9 +168,11 @@ def rebuild_curriculum(subject, books, cache):
     groups = {}
     for b in lesson_books(books, subject):
         groups.setdefault((b["grade"], b["term"]), []).append(b)
+    read = set()
     for (g, t), group in groups.items():
         if not all(b["link"] in cache for b in group):
             continue
+        read.add((g, t))
         group.sort(key=lambda b: (book_rank(subject, b["title"]), b["title"]))
         units = []
         for b in group:
@@ -233,30 +192,38 @@ def rebuild_curriculum(subject, books, cache):
         if g in FULL_YEAR and not grade.get("fullYear"):
             grade["fullYear"] = True
             changed = True
+    for g, grade in cur["grades"].items():
+        draft = {t: True for t in grade.get("terms", {}) if (g, t) not in read}
+        if draft != grade.get("draft", {}):
+            if draft:
+                grade["draft"] = draft
+            else:
+                grade.pop("draft", None)
+            changed = True
     if changed:
         cur["grades"] = dict(sorted(cur["grades"].items(), key=lambda kv: grade_key(kv[0])))
         cur["updated"] = date.today().isoformat()
-        year = groups and next(iter(groups.values()))[0]["link"].split("/")[4].replace("_", "-")
-        cur["version"] = f"{year} من كتب الوزارة {cur['updated']}"
+        links = [b["link"] for b in lesson_books(books, subject)]
+        year = links[0].split("/")[4].replace("_", "-") if links and len(links[0].split("/")) > 4 else ""
+        cur["version"] = f"{year} من كتب الوزارة {cur['updated']}".strip()
         write_json(path, cur)
     return changed
 
 
-def write_index(books):
+def write_index(books, root=ROOT):
     """subjects/index.json: every subject on the ministry site, and its curriculum file if there is one."""
     subjects = {}
     for b in books:
-        s = subjects.setdefault(b["subject"], {"grades": set()})
-        s["grades"].add(b["grade"])
+        subjects.setdefault(b["subject"], set()).add(b["grade"])
     out = {}
     for name in sorted(subjects, key=lambda n: (n != MATH, n)):
-        entry = {"grades": sorted(subjects[name]["grades"], key=grade_key)}
-        path = cur_path(name)
+        entry = {"grades": sorted(subjects[name], key=grade_key)}
+        path = cur_path(name, root)
         if path.exists():
             cur = json.loads(path.read_text(encoding="utf-8"))
-            entry.update({"file": path.relative_to(ROOT).as_posix(), "version": cur.get("version", ""), "updated": cur.get("updated", "")})
+            entry.update({"file": path.relative_to(root).as_posix(), "version": cur.get("version", ""), "updated": cur.get("updated", "")})
         out[name] = entry
-    return write_json(ROOT / "subjects" / "index.json", {"updated": date.today().isoformat(), "subjects": out})
+    return write_json(root / "subjects" / "index.json", {"updated": date.today().isoformat(), "subjects": out})
 
 
 def main():
@@ -279,20 +246,8 @@ def main():
     cache_path = ROOT / "toc-cache.json"
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
     todo = [b for s in targets for b in lesson_books(books, s) if b["link"] not in cache]
-    if todo and os.environ.get("ANTHROPIC_API_KEY"):
-        import anthropic
-        client = anthropic.Anthropic()
-        for b in todo:
-            try:
-                units = extract_toc(client, first_pages_pdf(b["link"]), f'{b["title"]} - {b["grade"]} - term {b["term"]}', b["subject"])
-                cache[b["link"]] = {"subject": b["subject"], "grade": b["grade"], "term": b["term"], "title": b["title"], "units": units}
-                print(f"toc: {b['subject']} {b['grade']} t{b['term']} {b['title']}: {len(units)} units")
-                write_json(cache_path, cache)  # keep what is done if a later book fails the run
-            except Exception as e:  # keep going; the book is retried on the next run
-                print(f"toc failed for {b['link']}: {e}")
-    elif todo:
-        print(f"{len(todo)} books waiting for a table of contents (ANTHROPIC_API_KEY not set)")
-
+    if todo:
+        print(f"{len(todo)} books waiting for a contents page (run render-toc.yml, then read them into toc-cache.json)")
     for s in targets:
         if rebuild_curriculum(s, books, cache):
             print(f"{cur_path(s).relative_to(ROOT).as_posix()} updated")

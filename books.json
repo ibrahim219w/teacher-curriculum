@@ -1,0 +1,1977 @@
+{
+  "updated": "2026-11-20",
+  "source": "https://studentbooks.moe.gov.eg/Books/",
+  "books": [
+    {
+      "subject": "الأحياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الأحياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Biology_ARABIC_Sec3.pdf"
+    },
+    {
+      "subject": "الأحياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الأحياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Biology_English_Sec3.pdf"
+    },
+    {
+      "subject": "الأحياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الأحياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Biology_FR_Sec3.pdf"
+    },
+    {
+      "subject": "الإحصاء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الإحصاء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Statistics_Arabic_Sec3.pdf"
+    },
+    {
+      "subject": "الإحصاء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الإحصاء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Statistics_English_Sec3.pdf"
+    },
+    {
+      "subject": "الإحصاء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الإحصاء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Statistics_Fr_Sec3.pdf"
+    },
+    {
+      "subject": "الإعلام التربوي",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "الإعلام التربوى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Educational_Media_prim6_t1.pdf"
+    },
+    {
+      "subject": "الإعلام التربوي",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الإعلام التربوي",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Educational_media_Pep1_Tr1.pdf"
+    },
+    {
+      "subject": "الإعلام التربوي",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الإعلام التربوى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Edu_media_prep3_t1.pdf"
+    },
+    {
+      "subject": "البرمجة والذكاء الاصطناعي",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "البرمجة والذكاء الاصطناعي",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/ICT_AR__Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "البرمجة والذكاء الاصطناعي",
+      "grade": "s1",
+      "term": "1",
+      "lang": "en",
+      "title": "البرمجة والذكاء الاصطناعي",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/ICT_EN__Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "التاريخ",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التاريخ",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/History_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "التاريخ",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التاريخ",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/History_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "التاريخ",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التاريخ",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/History_Sec3.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Islamic_religion_prim1_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/Islamic_religion_prim2_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Islamic_religion_prim3_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Islamic_religion_prim4_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Islamic_prim5_tr1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Islamic_Education_Primary6_T1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Islamic_Education_Prep1_T1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Islamic_religion_prep2_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Islamic_religion_prep3_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/deen_islamy_1sec_t1_t2.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Islamic_religion_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "التربية الدينية الإسلامية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية الإسلامية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Islamic_religion_Sec3.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Cristian_religion_prim1_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/Cristian_religion_prim2_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Cristian_religion_prim3_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Cristian_religion_prim4_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Cristian_reliogion_prim5_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Christian_Education_Primary6_T1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Christian_Education_Prep1_T1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Cristian_religion_prep2_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Cristian_Prp3_Tr1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Christian_1sec_t1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Christian_religion_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "التربية الدينية المسيحية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الدينية المسيحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Christian_religion_Sec3.pdf"
+    },
+    {
+      "subject": "التربية المسرحية",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية المسرحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Theater_prim4_t1.pdf"
+    },
+    {
+      "subject": "التربية المسرحية",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية المسرحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Theater_prim5_t1.pdf"
+    },
+    {
+      "subject": "التربية المسرحية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية المسرحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Thetar_prep1_Tr1.pdf"
+    },
+    {
+      "subject": "التربية المسرحية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية المسرحية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Theatre_Edu_prep3_t1.pdf"
+    },
+    {
+      "subject": "التربية الوطنية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "التربية الوطنية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/National_Education_Sec3_tr1.pdf"
+    },
+    {
+      "subject": "الجغرافيا",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "جغرافيا التنمية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Geography_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الجغرافيا",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الجغرافيا السياسية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Geography_Sec3.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Social_studies_prim4_t1.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Social_studies_prim5_t1.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Social_Studies_Primary6_T1.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Social_Studies_Prep1_T1.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Social_studies_prep2_t1.pdf"
+    },
+    {
+      "subject": "الدراسات الاجتماعية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الدراسات الاجتماعية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Social_studies_prep3_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Math_Ar_prim1_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p1",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Math_EN_P1_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p1",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Math_FR_P1_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/Math_Ar_prim2_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p2",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/Math_EN_P2_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Math_Ar_prim3_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p3",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Math_EN_P3_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Math_FR_P3_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Math_Ar_prim4_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p4",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Math_EN_P4_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p4",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Math_FR_P4_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Math_Ar_prim5_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p5",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Math_EN_prim5_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p5",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Math_FR_prim5_TR1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Math_Primary6_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p6",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Math_EN_P6_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "p6",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Math_FR_P6_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Math_Prep1_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m1",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Math_EN_Prp1_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_Ar_prep2_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m2",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_EN_Prp2_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m2",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_FR_Prp2_T1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_Ar_prep3_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m3",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_EN_prep3_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "m3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_fr_prep3_t1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Mathematics_AR_Tr1_Secondary.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s1",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Mathematics_EN_Tr1_Secondary.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s1",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Mathematics_FR_Tr1_Secondary.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/pure_Mathematics_ARABIC_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات العامة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/General_Mathematics_ARABIC_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "تطبيقات الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Application_Mathematics_AR_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/pure_Mathematics_ENGLISH_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/pure_Mathematics_FR_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات العامة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/General_Mathematics_ENGLISH_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "تطبيقات الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Application_Mathematics_EN_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "fr",
+      "title": "تطبيقات الرياضيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Application_des_Mathematiques_FR_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/pure_Mathematics_ARABIC_Sec3.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الرياضيات التطبيقية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/applied_Mathematics_ARABIC_Sec3.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/pure_Mathematics_ENGLISH_Sec3.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات البحتة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/pure_Mathematics_FRENCH_Sec3.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الرياضيات التطبيقية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/applied_Mathematics_ENGLISH_Sec3.pdf"
+    },
+    {
+      "subject": "الرياضيات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الرياضيات التطبيقية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/applied_Mathematics_FRENCH_Sec3.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Science_Ar_prim4_t1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p4",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Science_EN_PRIM4_Tr1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p4",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Science_FR_prim4_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Science_Ar_prim5_t1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p5",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Science_EN_Prim5_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p5",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Science_FR_prim5_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Science_Primary6_T1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p6",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Science_EN_prim6_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "p6",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Science_FR_prim6_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_Prep1_T1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m1",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_EN_Prp1_TR1..pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m1",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_FR_Prp1_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_Ar_prep2_t1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m2",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_EN_Pep2_T1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m2",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_FR_Pep2_T1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_AR_Prp3_Tr1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m3",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_EN_Prp3_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "m3",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_FR_Prp3_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "العلوم المتكاملة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/integratedscience_ARABIC_1_Secondary_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "s1",
+      "term": "1",
+      "lang": "en",
+      "title": "العلوم المتكاملة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/integratedscience_EN_1_Secondary_TR1.pdf"
+    },
+    {
+      "subject": "العلوم",
+      "grade": "s1",
+      "term": "1",
+      "lang": "fr",
+      "title": "العلوم المتكاملة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/integratedscience_FR_1_Secondary_TR1.pdf"
+    },
+    {
+      "subject": "الفلسفة والمنطق",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الفلسفة والمنطق",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Philosophy_and_Logic_Tr1_1sec.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Physics_Arabic_2_Secondary_TR1.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Physics_EN_Secondary2_TR1.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "fr",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Physics_F_Secondary2_TR1.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Physics_Arabic_Sec3.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Physics_English_Sec3.pdf"
+    },
+    {
+      "subject": "الفيزياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الفيزياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Physics_French_Sec3.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Chemistry_Arabic_2_Secondary_TR1.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/chemistry_English_Sec2_TR1.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s2",
+      "term": "1",
+      "lang": "fr",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/chemistry_FR_Sec2_TR1.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Chemistry_Arabic_Sec3.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Chemistry_English_Sec3.pdf"
+    },
+    {
+      "subject": "الكيمياء",
+      "grade": "s3",
+      "term": "1",
+      "lang": "fr",
+      "title": "الكيمياء",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Chemistry_FR_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الألمانية - لغة ثانية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الألمانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Deutschl_anguage_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الألمانية - لغة ثانية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الألمانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Deutsch_language_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الألمانية - لغة ثانية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الألمانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Deutsch_language_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الإسبانية - لغة ثانية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإسبانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Espanol_language_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإسبانية - لغة ثانية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإسبانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Espanol_language_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإسبانية - لغة ثانية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإسبانية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Espanol_language_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/English_language_prim1_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/English_language_prim3_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/English_language_prim4_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/English_language_prim5_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/English_Primary6_T1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/English_Prep1_T1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/English_language_prep2_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_language_prep3_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/English_1sec_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/English_language_2sec_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة أولى",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/English_language_Sec3_tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/English_sec_lang_prep1_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/English_sec_lang_prep2_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/English_second_language_secondary1.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/English_second_language_secondary2.pdf"
+    },
+    {
+      "subject": "اللغة الإنجليزية - لغة ثانية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/English_Second_Language_SEC3_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإيطالية - لغة ثانية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإيطالية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Italiano_prep2_t1.pdf"
+    },
+    {
+      "subject": "اللغة الإيطالية - لغة ثانية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإيطالية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Italiano_language_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإيطالية - لغة ثانية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإيطالية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Italiano_language_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الإيطالية - لغة ثانية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الإيطالية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Italiano_language_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/Arabic_language_prim1_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/Arabic_language_prim2_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/Arabic_language_prim3_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Arabic_language_prim4_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Arabic_langugae_prim5_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Arabic_Primary6_T1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Arabic_Prep1_T1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Arabic_language_prep2_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Arabic_language_prep3_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/arabic_1sec_t1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Arabic_language_STORY_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القواعد الأساسية للنحو والصرف",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/naho_general_TR1_1sec.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Arabic_language_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Arabic_language_Story_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القواعد الأساسية للنحو والصرف",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/naho_general_TR1_1sec.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_Story_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة العربية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة العربية - القواعد الأساسية للنحو والصرف",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_NAHO_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Premiere_langue_francaise_Sec1_Tr1.pdf.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Premiere_langue_francaise_STORY_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - كراسة التدريبات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Premiere_langue_francaise_WB_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_SB_Sec2_Tr1-125.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_STORY_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - كراسة التدريبات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_WB_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_SB_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - القصة",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_Story_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة أولى",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية أولى - كراسة التدريبات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_WB_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة ثانية",
+      "grade": "s1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec1_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة ثانية",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "اللغة الفرنسية - لغة ثانية",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة الفرنسية - لغة أجنبية ثانية",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec3.pdf"
+    },
+    {
+      "subject": "اللغة اليابانية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة اليابانية - لغة أجنبية ثانية - بطاقة هيراجانا/كاتاكانا",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/Hiragana_Katakana_Card.xlsx"
+    },
+    {
+      "subject": "اللغة اليابانية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة اليابانية - لغة أجنبية ثانية - صوتيات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJS_G7_audio.rar"
+    },
+    {
+      "subject": "اللغة اليابانية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة اليابانية - لغة أجنبية ثانية - فيديو",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/G7_Can_d0_Video.rar"
+    },
+    {
+      "subject": "اللغة اليابانية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة اليابانية - لغة أجنبية ثانية - كتاب الطالب",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/TEXTBOOK.pdf"
+    },
+    {
+      "subject": "اللغة اليابانية - لغة ثانية",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "اللغة اليابانية - لغة أجنبية ثانية - كراسة التدريبات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJSWorkbook.pdf"
+    },
+    {
+      "subject": "المكتبات ومهارات البحث",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "المكتبات ومهارات البحث",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Libraries_prim4_t1.pdf"
+    },
+    {
+      "subject": "المكتبات ومهارات البحث",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "المكتبات ومهارات البحث",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Libraries_prim5_t1.pdf"
+    },
+    {
+      "subject": "المكتبات ومهارات البحث",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "المكتبات ومهارات البحث",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Libraries_prim6_t1.pdf"
+    },
+    {
+      "subject": "المكتبات ومهارات البحث",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "المكتبات ومهارات البحث",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Librarie_research_skills_prep1_Tr1.pdf"
+    },
+    {
+      "subject": "المكتبات ومهارات البحث",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "المكتبات ومهارات البحث",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Libraries_2prep_tr1.pdf"
+    },
+    {
+      "subject": "المواطنة وحقوق الإنسان",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "المواطنة وحقوق الإنسان",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Citizenship_and_Human_Rights_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/ICT_ARABIC_Prim4_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/ICT_ARABIC_Prim5_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/ICT_ARABIC_Prim6_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/ICT_ARABIC_Prp1_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/ICT_ARABIC_Prp2_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "m2",
+      "term": "1",
+      "lang": "en",
+      "title": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/ICT_EN_Prp2_Tr1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "m3",
+      "term": "1",
+      "lang": "ar",
+      "title": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/ICT_ARABIC_Prp3_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "m3",
+      "term": "1",
+      "lang": "en",
+      "title": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/ICT_EN_Prp3_TR1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/ICT_AR_SEC2_Tr1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "s2",
+      "term": "1",
+      "lang": "en",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/ICT_En_SEC2_Tr1.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/ICT_AR_Sec3.pdf"
+    },
+    {
+      "subject": "تكنولوجيا المعلومات والاتصالات",
+      "grade": "s3",
+      "term": "1",
+      "lang": "en",
+      "title": "تكنولوجيا المعلومات والاتصالات",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/ICT_EN_Sec3.pdf"
+    },
+    {
+      "subject": "علم النفس والاجتماع",
+      "grade": "s2",
+      "term": "1",
+      "lang": "ar",
+      "title": "علم النفس والاجتماع",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Psychologyand_sociology_Sec2_Tr1.pdf"
+    },
+    {
+      "subject": "علم النفس والاجتماع",
+      "grade": "s3",
+      "term": "1",
+      "lang": "ar",
+      "title": "علم النفس والاجتماع",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Psychology_Sociology_Sec3.pdf"
+    },
+    {
+      "subject": "مهارات إدارة الأسرة وريادة الأعمال",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات إدارة الأسرة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Family_management_Prim4_TR1.pdf"
+    },
+    {
+      "subject": "مهارات إدارة الأسرة وريادة الأعمال",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات إدارة الأسرة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Family_management_Prim5_TR1.pdf"
+    },
+    {
+      "subject": "مهارات إدارة الأسرة وريادة الأعمال",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات إدارة الأسرة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Family_management_Prim6_TR1.pdf"
+    },
+    {
+      "subject": "مهارات الزراعة وريادة الأعمال",
+      "grade": "p4",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الزراعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/Farming_skills_prim4_t1.pdf"
+    },
+    {
+      "subject": "مهارات الزراعة وريادة الأعمال",
+      "grade": "p5",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الزراعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary5/Term1/StudentBook/Farming_skills_prim5_t1.pdf"
+    },
+    {
+      "subject": "مهارات الزراعة وريادة الأعمال",
+      "grade": "p6",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الزراعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Farming_skills_prim6_t1.pdf"
+    },
+    {
+      "subject": "مهارات الزراعة وريادة الأعمال",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الزراعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Agriculture_2_Preparatory_TR1.pdf"
+    },
+    {
+      "subject": "مهارات الصناعة وريادة الأعمال",
+      "grade": "m1",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الصناعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Industry_Skills_prep1_t1.pdf"
+    },
+    {
+      "subject": "مهارات الصناعة وريادة الأعمال",
+      "grade": "m2",
+      "term": "1",
+      "lang": "ar",
+      "title": "مهارات الصناعة وريادة الأعمال",
+      "type": "كتاب الطالب",
+      "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Industry_Prep2_T1.pdf"
+    }
+  ]
+}
