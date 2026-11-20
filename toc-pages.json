@@ -95,10 +95,6 @@
   4,
   5
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary6/Term1/StudentBook/Libraries_prim6_t1.pdf": [
-  14,
-  15
- ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary4/Term1/StudentBook/ICT_ARABIC_Prim4_TR1.pdf": [
   3,
   4
@@ -220,7 +216,12 @@
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Arabic_language_Story_Sec2_Tr1.pdf": [
   5
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_NAHO_Sec3.pdf": "end",
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_NAHO_Sec3.pdf": [
+  181,
+  182,
+  183,
+  184
+ ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_STORY_Sec2_Tr1.pdf": "end",
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec2_Tr1.pdf": [
   5,
@@ -293,13 +294,23 @@
   5,
   6
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Arabic_language_STORY_Sec1_Tr1.pdf": "end",
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/naho_general_TR1_1sec.pdf": "end",
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Arabic_language_STORY_Sec1_Tr1.pdf": [
+  124
+ ],
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/naho_general_TR1_1sec.pdf": [
+  181,
+  182,
+  183,
+  184
+ ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Premiere_langue_francaise_Sec1_Tr1.pdf.pdf": [
   5,
   6
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_SB_Sec3.pdf": "end",
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_SB_Sec3.pdf": [
+  130,
+  131
+ ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec3.pdf": [
   5,
   6
@@ -445,7 +456,9 @@
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_language_prep3_t1.pdf": [
   4
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf": "end",
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf": [
+  73
+ ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Italiano_language_Sec3.pdf": [
   5,
   6
@@ -462,7 +475,9 @@
   6,
   7
  ],
- "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_SB_Sec2_Tr1-125.pdf": "end",
+ "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_SB_Sec2_Tr1-125.pdf": [
+  124
+ ],
  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Une_deuxieme_langue_francaise_Sec1_Tr1.pdf": [
   5,
   6

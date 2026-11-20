@@ -84,6 +84,12 @@ def test_index_version_changes_only_for_changed_subject(tmp_path):
     assert after[sci]["file"] == "subjects/العلوم.json"
 
 
+def test_lesson_books_leaves_out_skipped_books(tmp_path):
+    books = [book("العلوم", "p4", "1", "https://x/a.pdf"), book("العلوم", "p4", "1", "https://x/reader.pdf")]
+    (tmp_path / "toc-skip.json").write_text(json.dumps({"https://x/reader.pdf": "story reader, no contents"}), encoding="utf-8")
+    assert [b["link"] for b in update.lesson_books(books, "العلوم", root=tmp_path)] == ["https://x/a.pdf"]
+
+
 RealDate = update.date
 
 

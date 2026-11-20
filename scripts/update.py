@@ -142,9 +142,12 @@ def cur_path(subject, root=ROOT):
     return root / ("curriculum.json" if subject == MATH else f"subjects/{subject}.json")
 
 
-def lesson_books(books, subject):
-    """The books whose contents make up the lesson plan: the Arabic-medium PDFs of the subject."""
-    return [b for b in books if b["subject"] == subject and b["lang"] == "ar"
+def lesson_books(books, subject, root=ROOT):
+    """The books whose contents make up the lesson plan: the Arabic-medium PDFs of the subject,
+    minus those listed in toc-skip.json ({link: reason}), e.g. story readers with no contents page."""
+    path = root / "toc-skip.json"
+    skip = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    return [b for b in books if b["subject"] == subject and b["lang"] == "ar" and b["link"] not in skip
             and b["link"].lower().endswith(".pdf") and not NOT_LESSONS.search(b["title"])]
 
 
@@ -166,7 +169,7 @@ def rebuild_curriculum(subject, books, cache, root=ROOT):
     cur["subject"] = subject
     changed = False
     groups = {}
-    for b in lesson_books(books, subject):
+    for b in lesson_books(books, subject, root):
         groups.setdefault((b["grade"], b["term"]), []).append(b)
     read = set()
     for (g, t), group in groups.items():
@@ -203,7 +206,7 @@ def rebuild_curriculum(subject, books, cache, root=ROOT):
     if changed:
         cur["grades"] = dict(sorted(cur["grades"].items(), key=lambda kv: grade_key(kv[0])))
         cur["updated"] = date.today().isoformat()
-        links = [b["link"] for b in lesson_books(books, subject)]
+        links = [b["link"] for b in lesson_books(books, subject, root)]
         year = links[0].split("/")[4].replace("_", "-") if links and len(links[0].split("/")) > 4 else ""
         cur["version"] = f"{year} من كتب الوزارة {cur['updated']}".strip()
         write_json(path, cur)
