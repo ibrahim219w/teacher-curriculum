@@ -1,0 +1,105 @@
+{
+  "subject": "اللغة الفرنسية - لغة ثانية",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unité 1: Le Club de ma classe",
+            "lessons": [
+              "Le Club de ma classe"
+            ]
+          },
+          {
+            "title": "Unité 2: Le Club des artistes",
+            "lessons": [
+              "Le Club des artistes"
+            ]
+          },
+          {
+            "title": "Unité 3: Le Club des lecteurs",
+            "lessons": [
+              "Le Club des lecteurs"
+            ]
+          },
+          {
+            "title": "Unité 4: Le Club des athlètes",
+            "lessons": [
+              "Le Club des athlètes"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unité 1: Le Club des citadins",
+            "lessons": [
+              "Le Club des citadins"
+            ]
+          },
+          {
+            "title": "Unité 2: Le Club des photographes",
+            "lessons": [
+              "Le Club des photographes"
+            ]
+          },
+          {
+            "title": "Unité 3: Le Club des lookés",
+            "lessons": [
+              "Le Club des lookés"
+            ]
+          },
+          {
+            "title": "Unité 4: Le Club des décorateurs",
+            "lessons": [
+              "Le Club des décorateurs"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unité 1: Le Club des sportifs",
+            "lessons": [
+              "Le Club des sportifs"
+            ]
+          },
+          {
+            "title": "Unité 2: Le Club des gourmands",
+            "lessons": [
+              "Le Club des gourmands"
+            ]
+          },
+          {
+            "title": "Unité 3: Le Club des explorateurs",
+            "lessons": [
+              "Le Club des explorateurs"
+            ]
+          },
+          {
+            "title": "Unité 4: Le Club des voyageurs",
+            "lessons": [
+              "Le Club des voyageurs"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

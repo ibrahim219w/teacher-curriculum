@@ -1,0 +1,235 @@
+{
+  "subject": "اللغة الفرنسية - لغة أولى",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unité 1: Voyager autrement",
+            "lessons": [
+              "Voyager autrement, comment ?",
+              "Le tourisme : chance ou danger?",
+              "Voyager sans détruire, c'est possible ?",
+              "Le voyage de demain !",
+              "Écrivains d'hier et d'aujourd'hui — Voyage et découverte du monde"
+            ]
+          },
+          {
+            "title": "Unité 2: Sport et alimentation",
+            "lessons": [
+              "Pratiquer un sport",
+              "Alimentation et santé",
+              "Sport et performance",
+              "Équilibre de vie",
+              "Écrivains d'hier et d'aujourd'hui — Corps, santé et mode de vie"
+            ]
+          },
+          {
+            "title": "Unité 3: Mode, identité et consommation",
+            "lessons": [
+              "Mode et image de soi",
+              "Consommation et argent",
+              "Consommer autrement",
+              "Choisir son mode de vie",
+              "Écrivains d'hier et d'aujourd'hui — Identité, consommation et mode de vie"
+            ]
+          },
+          {
+            "title": "Unité 4: Art moderne, cinéma et théâtre",
+            "lessons": [
+              "L'art moderne et contemporain",
+              "Le cinéma",
+              "Le théâtre",
+              "Créer et diffuser son art",
+              "Écrivains d'hier et d'aujourd'hui — Théâtre et expression artistique"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unité 1 : Famille / Condition féminine",
+            "lessons": [
+              "Famille / Condition féminine"
+            ]
+          },
+          {
+            "title": "Unité 2 : Ordinateur / Technologie",
+            "lessons": [
+              "Ordinateur / Technologie"
+            ]
+          },
+          {
+            "title": "Unité 3 : Environnement / Pollution",
+            "lessons": [
+              "Environnement / Pollution"
+            ]
+          },
+          {
+            "title": "Unité 4 : Santé / Action humanitaire",
+            "lessons": [
+              "Santé / Action humanitaire"
+            ]
+          },
+          {
+            "title": "Unité 5 : Argent, publicité, promotions",
+            "lessons": [
+              "Argent, publicité, promotions"
+            ]
+          },
+          {
+            "title": "Unité 6 : Enseignement des langues",
+            "lessons": [
+              "Enseignement des langues"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Leçon 1",
+            "lessons": [
+              "Une nouvelle créatrice",
+              "Curriculum vitae"
+            ]
+          },
+          {
+            "title": "Leçon 2",
+            "lessons": [
+              "Apprendre une langue étrangère",
+              "Quel type d'étudiant(e) êtes-vous?"
+            ]
+          },
+          {
+            "title": "Leçon 3",
+            "lessons": [
+              "Suppositions",
+              "Donner votre avis"
+            ]
+          },
+          {
+            "title": "Leçon 4",
+            "lessons": [
+              "Quelle époque !",
+              "Le gymnase de Nancy"
+            ]
+          },
+          {
+            "title": "Leçon 5",
+            "lessons": [
+              "La ligne des Cévennes",
+              "La protection d'un site naturel"
+            ]
+          },
+          {
+            "title": "Leçon 6",
+            "lessons": [
+              "La protection des animaux sauvages",
+              "Après la tempête"
+            ]
+          },
+          {
+            "title": "Leçon 7",
+            "lessons": [
+              "Les grands événements",
+              "La découverte"
+            ]
+          },
+          {
+            "title": "Leçon 8",
+            "lessons": [
+              "Coup de cœur",
+              "Le jean"
+            ]
+          },
+          {
+            "title": "Leçon 9",
+            "lessons": [
+              "L'entreprise en difficulté",
+              "Ces innovations, aux conséquences imprévisibles"
+            ]
+          },
+          {
+            "title": "Leçon 10",
+            "lessons": [
+              "Accidents de la route",
+              "Journée sans achats"
+            ]
+          },
+          {
+            "title": "Leçon 11",
+            "lessons": [
+              "Dépenses des Français",
+              "Différents types de lettres"
+            ]
+          },
+          {
+            "title": "Leçon 12",
+            "lessons": [
+              "Opinions",
+              "Un objet témoin de votre époque"
+            ]
+          },
+          {
+            "title": "Leçon 13",
+            "lessons": [
+              "Un chercheur",
+              "Une vie pour la science"
+            ]
+          },
+          {
+            "title": "Leçon 14",
+            "lessons": [
+              "Ecoles, écoles",
+              "La parole est aux parents"
+            ]
+          },
+          {
+            "title": "Leçon 15",
+            "lessons": [
+              "Projets",
+              "Pour une meilleure qualité de vie dans votre quartier"
+            ]
+          },
+          {
+            "title": "Leçon 16",
+            "lessons": [
+              "La terre se réchauffe",
+              "Effets du réchauffement de la planète"
+            ]
+          },
+          {
+            "title": "Leçon 17",
+            "lessons": [
+              "Deux femmes, deux générations",
+              "Paroles de parents et de jeunes"
+            ]
+          },
+          {
+            "title": "Leçon 18",
+            "lessons": [
+              "Un petit service",
+              "Les maladresses de Valentine"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

@@ -1,0 +1,174 @@
+{
+  "subject": "اللغة الإنجليزية - لغة ثانية",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "m1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: About Me",
+            "lessons": [
+              "About Me"
+            ]
+          },
+          {
+            "title": "Unit 2: My Family",
+            "lessons": [
+              "My Family"
+            ]
+          },
+          {
+            "title": "Unit 3: My School & Friends",
+            "lessons": [
+              "My School & Friends"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "m2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: My Family",
+            "lessons": [
+              "My Family"
+            ]
+          },
+          {
+            "title": "Unit 2: My Home",
+            "lessons": [
+              "My Home"
+            ]
+          },
+          {
+            "title": "Unit 3: School Life",
+            "lessons": [
+              "School Life"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "m3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: School Life",
+            "lessons": [
+              "School Life"
+            ]
+          },
+          {
+            "title": "Unit 2: My Town",
+            "lessons": [
+              "My Town"
+            ]
+          },
+          {
+            "title": "Unit 3: People",
+            "lessons": [
+              "People"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Back to School",
+            "lessons": [
+              "Back to School"
+            ]
+          },
+          {
+            "title": "Unit 2: Daily Routine and Healthy Life",
+            "lessons": [
+              "Daily Routine and Healthy Life"
+            ]
+          },
+          {
+            "title": "Unit 3: My Time at School",
+            "lessons": [
+              "My Time at School"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: People & Friends",
+            "lessons": [
+              "People & Friends"
+            ]
+          },
+          {
+            "title": "Unit 2: Places & Directions in My Town",
+            "lessons": [
+              "Places & Directions in My Town"
+            ]
+          },
+          {
+            "title": "Unit 3: Daily Routine & Technology Use",
+            "lessons": [
+              "Daily Routine & Technology Use"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Learning & Ambition",
+            "lessons": [
+              "Learning for the Future",
+              "A School Project",
+              "Planning for Success",
+              "A Social Media Reflection"
+            ]
+          },
+          {
+            "title": "Unit 2: Sports & Community",
+            "lessons": [
+              "Sports for a Better Community",
+              "Community Sports Events",
+              "Sports & Community Heroes",
+              "Taking Action!"
+            ]
+          },
+          {
+            "title": "Unit 3: Jobs & Technology",
+            "lessons": [
+              "Jobs around Us",
+              "Technology at Work",
+              "Teamwork & Jobs",
+              "Jobs and Technology"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

@@ -1,0 +1,238 @@
+{
+  "subject": "اللغة الإيطالية - لغة ثانية",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "m2": {
+      "terms": {
+        "1": [
+          {
+            "title": "UNITÀ 1: TEMPO LIBERO E INTERESSI",
+            "lessons": [
+              "TEMPO LIBERO E INTERESSI"
+            ]
+          },
+          {
+            "title": "UNITÀ 2: TI PIACE LO SPORT?",
+            "lessons": [
+              "TI PIACE LO SPORT?"
+            ]
+          },
+          {
+            "title": "UNITÀ 3: GATTO O CANE?",
+            "lessons": [
+              "GATTO O CANE?"
+            ]
+          },
+          {
+            "title": "UNITÀ 4: A CHE ORA TI SVEGLI?",
+            "lessons": [
+              "A CHE ORA TI SVEGLI?"
+            ]
+          },
+          {
+            "title": "UNITÀ 5: ITALIA ED EGITTO",
+            "lessons": [
+              "ITALIA ED EGITTO"
+            ]
+          },
+          {
+            "title": "UNITÀ 6: ANDIAMO A MANGIARE LA PIZZA?",
+            "lessons": [
+              "ANDIAMO A MANGIARE LA PIZZA?"
+            ]
+          },
+          {
+            "title": "UNITÀ 7: CHE COSA MI METTO?",
+            "lessons": [
+              "CHE COSA MI METTO?"
+            ]
+          },
+          {
+            "title": "UNITÀ 8: GLI ITALIANI FAMOSI: SPORT E MUSICA",
+            "lessons": [
+              "GLI ITALIANI FAMOSI: SPORT E MUSICA"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unità 1: Benvenuti!",
+            "lessons": [
+              "Parole e lettere",
+              "Italiano o italiana?",
+              "Ciao, io sono Gianna..."
+            ]
+          },
+          {
+            "title": "Unità 2: Il ragazzo o la ragazza?",
+            "lessons": [
+              "Il ragazzo o la ragazza?",
+              "Chi è?",
+              "In classe"
+            ]
+          },
+          {
+            "title": "Unità 3: A scuola",
+            "lessons": [
+              "Sei nuova, no?",
+              "Una giornata importante!",
+              "Ciao Maria!"
+            ]
+          },
+          {
+            "title": "Unità 4: Di dove sei?",
+            "lessons": [
+              "Di dove sei?",
+              "E Lei, come si chiama?",
+              "Com'è?"
+            ]
+          },
+          {
+            "title": "Unità 5: Tempo libero",
+            "lessons": [
+              "Dove andate di solito?",
+              "Vieni con noi?"
+            ]
+          },
+          {
+            "title": "Unità 6: Perché non venite a casa mia?",
+            "lessons": [
+              "Perché non venite a casa mia?",
+              "Un appartamento al quarto piano",
+              "Che fai nel tempo libero?",
+              "Che ora è?/Che ore sono?"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unità 1: In contatto",
+            "lessons": [
+              "Alle 10.30 del mattino?",
+              "A che ora?",
+              "Mah, non so..."
+            ]
+          },
+          {
+            "title": "Unità 2: Dov'è?",
+            "lessons": [
+              "Dov'è?",
+              "Di chi è?",
+              "Grazie!",
+              "Abilità e vocabolario"
+            ]
+          },
+          {
+            "title": "Unità 3: Una festa",
+            "lessons": [
+              "Com'è andata la festa?",
+              "Cosa hai fatto...?",
+              "Che è successo?"
+            ]
+          },
+          {
+            "title": "Unità 4: Quanti regali!",
+            "lessons": [
+              "Quanti regali!",
+              "Buon compleanno!",
+              "L'ora della verità",
+              "Parliamo e scriviamo"
+            ]
+          },
+          {
+            "title": "Unità 5: A tavola",
+            "lessons": [
+              "Chi sa cucinare?",
+              "La famiglia",
+              "Gusti famosi..."
+            ]
+          },
+          {
+            "title": "Unità 6: Cosa cuciniamo?",
+            "lessons": [
+              "Cosa cuciniamo?",
+              "Come mangi?",
+              "Vocabolario",
+              "Abilità"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unità 1: Progetti... extrascolastici",
+            "lessons": [
+              "Vinceremo noi!",
+              "Quando usiamo il futuro"
+            ]
+          },
+          {
+            "title": "Unità 2: Saremo tutti delle stelle!",
+            "lessons": [
+              "Saremo tutti delle stelle!",
+              "L'oroscopo",
+              "Che carattere!",
+              "Abilità"
+            ]
+          },
+          {
+            "title": "Unità 3: Ambiente ed ecologia",
+            "lessons": [
+              "Le prove dove le facciamo?",
+              "Che bello!"
+            ]
+          },
+          {
+            "title": "Unità 4: L'ho sentita!",
+            "lessons": [
+              "L'ho sentita!",
+              "Ti posso aiutare?",
+              "La terra è in pericolo!",
+              "Abilità"
+            ]
+          },
+          {
+            "title": "Unità 5: Facciamo spese",
+            "lessons": [
+              "Dai, ci divertiremo!",
+              "Che ne pensi?",
+              "Capi di abbigliamento"
+            ]
+          },
+          {
+            "title": "Unità 6: Che numero porti?",
+            "lessons": [
+              "Che numero porti?",
+              "Quanto costa?",
+              "A che ora ci possiamo vedere?",
+              "Che consumatore sei?",
+              "Abilità"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

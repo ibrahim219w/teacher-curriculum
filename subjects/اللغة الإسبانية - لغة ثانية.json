@@ -1,0 +1,165 @@
+{
+  "subject": "اللغة الإسبانية - لغة ثانية",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unidad 1: ¡Hola!",
+            "lessons": [
+              "¡Hola!"
+            ]
+          },
+          {
+            "title": "Unidad 2: Mi clase",
+            "lessons": [
+              "Mi clase"
+            ]
+          },
+          {
+            "title": "Unidad 3: Mis compañeros",
+            "lessons": [
+              "Mis compañeros"
+            ]
+          },
+          {
+            "title": "Unidad 4: Mi escuela",
+            "lessons": [
+              "Mi escuela"
+            ]
+          },
+          {
+            "title": "Unidad 5: El recreo",
+            "lessons": [
+              "El recreo"
+            ]
+          },
+          {
+            "title": "Unidad 6: Mi familia",
+            "lessons": [
+              "Mi familia"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unidad 7: En casa",
+            "lessons": [
+              "En casa"
+            ]
+          },
+          {
+            "title": "Unidad 8: ¡A comer!",
+            "lessons": [
+              "¡A comer!"
+            ]
+          },
+          {
+            "title": "Unidad 9: Mi barrio",
+            "lessons": [
+              "Mi barrio"
+            ]
+          },
+          {
+            "title": "Unidad 10: ¡Vamos de excursión!",
+            "lessons": [
+              "¡Vamos de excursión!"
+            ]
+          },
+          {
+            "title": "Unidad 11: El viernes",
+            "lessons": [
+              "El viernes"
+            ]
+          },
+          {
+            "title": "Unidad 12: Hoy no voy a clase",
+            "lessons": [
+              "Hoy no voy a clase"
+            ]
+          },
+          {
+            "title": "Unidad 13: ¿Qué has hecho hoy?",
+            "lessons": [
+              "¿Qué has hecho hoy?"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unidad 14: En mi tiempo libre....",
+            "lessons": [
+              "En mi tiempo libre...."
+            ]
+          },
+          {
+            "title": "Unidad 15: Mi personaje",
+            "lessons": [
+              "Mi personaje"
+            ]
+          },
+          {
+            "title": "Unidad 16: En Internet",
+            "lessons": [
+              "En Internet"
+            ]
+          },
+          {
+            "title": "Unidad 17: ¿Qué voy a ser de mayor?",
+            "lessons": [
+              "¿Qué voy a ser de mayor?"
+            ]
+          },
+          {
+            "title": "Unidad 18: En el centro comercial",
+            "lessons": [
+              "En el centro comercial"
+            ]
+          },
+          {
+            "title": "Unidad 19: En el país del Nilo",
+            "lessons": [
+              "En el país del Nilo"
+            ]
+          },
+          {
+            "title": "Unidad 20: En tiempos del faraón",
+            "lessons": [
+              "En tiempos del faraón"
+            ]
+          },
+          {
+            "title": "Unidad 21: ¡Buena idea!",
+            "lessons": [
+              "¡Buena idea!"
+            ]
+          },
+          {
+            "title": "Unidad 22: Deporte y vida sana",
+            "lessons": [
+              "Deporte y vida sana"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

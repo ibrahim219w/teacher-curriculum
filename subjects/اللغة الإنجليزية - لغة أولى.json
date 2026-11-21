@@ -1,0 +1,537 @@
+{
+  "subject": "اللغة الإنجليزية - لغة أولى",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "p1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Welcome to My School",
+            "lessons": [
+              "Welcome to My School"
+            ]
+          },
+          {
+            "title": "Unit 2: The Garden of Colors and Shapes",
+            "lessons": [
+              "The Garden of Colors and Shapes"
+            ]
+          },
+          {
+            "title": "Unit 3: I Love My Family",
+            "lessons": [
+              "I Love My Family"
+            ]
+          },
+          {
+            "title": "Unit 4: My Body and My Senses",
+            "lessons": [
+              "My Body and My Senses"
+            ]
+          },
+          {
+            "title": "Unit 5: On the Farm",
+            "lessons": [
+              "On the Farm"
+            ]
+          },
+          {
+            "title": "Unit 6: Animals Around Me",
+            "lessons": [
+              "Animals Around Me"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "p2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Let's Get Started!",
+            "lessons": [
+              "Let's Get Started!"
+            ]
+          },
+          {
+            "title": "Unit 2: Colors, Shapes, and Numbers",
+            "lessons": [
+              "Colors, Shapes, and Numbers"
+            ]
+          },
+          {
+            "title": "Unit 3: Classroom Actions & Routines",
+            "lessons": [
+              "Classroom Actions & Routines"
+            ]
+          },
+          {
+            "title": "Unit 4: Everyday Life",
+            "lessons": [
+              "Everyday Life"
+            ]
+          },
+          {
+            "title": "Unit 5: My Home",
+            "lessons": [
+              "My Home"
+            ]
+          },
+          {
+            "title": "Unit 6: Rooms at Home",
+            "lessons": [
+              "Rooms at Home"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "p3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Let's Learn Together!",
+            "lessons": [
+              "Let's Learn Together!"
+            ]
+          },
+          {
+            "title": "Unit 2: My Family and I",
+            "lessons": [
+              "My Family and I"
+            ]
+          },
+          {
+            "title": "Unit 3: New Adventures",
+            "lessons": [
+              "New Adventures"
+            ]
+          },
+          {
+            "title": "Unit 4: Let's Tell Stories!",
+            "lessons": [
+              "Let's Tell Stories!"
+            ]
+          },
+          {
+            "title": "Unit 5: Together Is Better",
+            "lessons": [
+              "Together Is Better"
+            ]
+          },
+          {
+            "title": "Unit 6: Dare to Dream",
+            "lessons": [
+              "Dare to Dream"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "p4": {
+      "terms": {
+        "1": [
+          {
+            "title": "1. The Five Senses",
+            "lessons": [
+              "The Five Senses"
+            ]
+          },
+          {
+            "title": "2. My Community",
+            "lessons": [
+              "My Community"
+            ]
+          },
+          {
+            "title": "3. Animals In Our World",
+            "lessons": [
+              "Animals In Our World"
+            ]
+          },
+          {
+            "title": "4. Egypt- My Homeland",
+            "lessons": [
+              "Egypt- My Homeland"
+            ]
+          },
+          {
+            "title": "5. A Day At Work",
+            "lessons": [
+              "A Day At Work"
+            ]
+          },
+          {
+            "title": "6. The Hundred Dresses",
+            "lessons": [
+              "The Hundred Dresses"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "p5": {
+      "terms": {
+        "1": [
+          {
+            "title": "1. Food, Nature, and Culture",
+            "lessons": [
+              "Food, Nature, and Culture"
+            ]
+          },
+          {
+            "title": "2. My Healthy Body",
+            "lessons": [
+              "My Healthy Body"
+            ]
+          },
+          {
+            "title": "3. When Nature Changes",
+            "lessons": [
+              "When Nature Changes"
+            ]
+          },
+          {
+            "title": "4. My Community",
+            "lessons": [
+              "My Community"
+            ]
+          },
+          {
+            "title": "5. Our World, Our Resources",
+            "lessons": [
+              "Our World, Our Resources"
+            ]
+          },
+          {
+            "title": "6. The Talking Earth",
+            "lessons": [
+              "The Talking Earth"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "p6": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Amazing places in Egypt",
+            "lessons": [
+              "Amazing places in Egypt"
+            ]
+          },
+          {
+            "title": "Unit 2: Our Nature",
+            "lessons": [
+              "Our Nature"
+            ]
+          },
+          {
+            "title": "Unit 3: Community Builders",
+            "lessons": [
+              "Community Builders"
+            ]
+          },
+          {
+            "title": "Unit 4: Resources Around Us",
+            "lessons": [
+              "Resources Around Us"
+            ]
+          },
+          {
+            "title": "Unit 5: Made in Egypt",
+            "lessons": [
+              "Made in Egypt"
+            ]
+          },
+          {
+            "title": "Unit 6: Water Savers",
+            "lessons": [
+              "Water Savers"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "m1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Life in a Digital World",
+            "lessons": [
+              "Life in a Digital World"
+            ]
+          },
+          {
+            "title": "Unit 2: Learning to Learn",
+            "lessons": [
+              "Learning to Learn"
+            ]
+          },
+          {
+            "title": "Unit 3: Role Models",
+            "lessons": [
+              "Role Models"
+            ]
+          },
+          {
+            "title": "Unit 4: Smart Choices",
+            "lessons": [
+              "Smart Choices"
+            ]
+          },
+          {
+            "title": "Unit 5: Future Dreams",
+            "lessons": [
+              "Future Dreams"
+            ]
+          },
+          {
+            "title": "Unit 6: Global Citizens",
+            "lessons": [
+              "Global Citizens"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "m2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Gen Alpha",
+            "lessons": [
+              "Gen Alpha"
+            ]
+          },
+          {
+            "title": "Unit 2: My Digital Footprint",
+            "lessons": [
+              "My Digital Footprint"
+            ]
+          },
+          {
+            "title": "Unit 3: Facing Challenges",
+            "lessons": [
+              "Facing Challenges"
+            ]
+          },
+          {
+            "title": "Unit 4: Art and Expression",
+            "lessons": [
+              "Art and Expression"
+            ]
+          },
+          {
+            "title": "Unit 5: Around the World",
+            "lessons": [
+              "Around the World"
+            ]
+          },
+          {
+            "title": "Unit 6: Young Innovators",
+            "lessons": [
+              "Young Innovators"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "m3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Personal Identity",
+            "lessons": [
+              "Personal Identity"
+            ]
+          },
+          {
+            "title": "Unit 2: Communication with Family and Friends",
+            "lessons": [
+              "Communication with Family and Friends"
+            ]
+          },
+          {
+            "title": "Unit 3: Artificial Intelligence",
+            "lessons": [
+              "Artificial Intelligence"
+            ]
+          },
+          {
+            "title": "Unit 4: Screen Time",
+            "lessons": [
+              "Screen Time"
+            ]
+          },
+          {
+            "title": "Unit 5: Design Thinking",
+            "lessons": [
+              "Design Thinking"
+            ]
+          },
+          {
+            "title": "Unit 6: Why Do We Like Stories?",
+            "lessons": [
+              "Why Do We Like Stories?"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Egypt's Heritage",
+            "lessons": [
+              "Egypt's Heritage"
+            ]
+          },
+          {
+            "title": "Unit 2: Hands Help, Hearts Care",
+            "lessons": [
+              "Hands Help, Hearts Care"
+            ]
+          },
+          {
+            "title": "Unit 3: Truth Vs. Lies",
+            "lessons": [
+              "Truth Vs. Lies"
+            ]
+          },
+          {
+            "title": "Unit 4: Save and Shine",
+            "lessons": [
+              "Save and Shine"
+            ]
+          },
+          {
+            "title": "Unit 5: Using Technology at Schools",
+            "lessons": [
+              "Using Technology at Schools"
+            ]
+          },
+          {
+            "title": "Unit 6: Job Hunting",
+            "lessons": [
+              "Job Hunting"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "1 Egypt-Africa Cooperation",
+            "lessons": [
+              "Egypt-Africa Cooperation"
+            ]
+          },
+          {
+            "title": "2 Startups & Young Entrepreneurs",
+            "lessons": [
+              "Startups & Young Entrepreneurs"
+            ]
+          },
+          {
+            "title": "3 Sustainable Development Goals (SDG)",
+            "lessons": [
+              "Sustainable Development Goals (SDG)"
+            ]
+          },
+          {
+            "title": "4 Natural Disasters",
+            "lessons": [
+              "Natural Disasters"
+            ]
+          },
+          {
+            "title": "5 Media Manipulation",
+            "lessons": [
+              "Media Manipulation"
+            ]
+          },
+          {
+            "title": "6 Soft Skills Vs. Hard Skills",
+            "lessons": [
+              "Soft Skills Vs. Hard Skills"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Unit 1: Inside the World of Care",
+            "lessons": [
+              "Inside the World of Care"
+            ]
+          },
+          {
+            "title": "Unit 2: The Power of Machines",
+            "lessons": [
+              "The Power of Machines"
+            ]
+          },
+          {
+            "title": "Unit 3: Protect Nature, Protect Future",
+            "lessons": [
+              "Protect Nature, Protect Future"
+            ]
+          },
+          {
+            "title": "Unit 4: Marine Life",
+            "lessons": [
+              "Marine Life"
+            ]
+          },
+          {
+            "title": "Unit 5: From Muscles to Mindset",
+            "lessons": [
+              "From Muscles to Mindset"
+            ]
+          },
+          {
+            "title": "Unit 6: Let's Hang Out!",
+            "lessons": [
+              "Let's Hang Out!"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}

@@ -1,0 +1,173 @@
+{
+  "subject": "اللغة الألمانية - لغة ثانية",
+  "version": "2026-2027 من كتب الوزارة 2026-11-21",
+  "updated": "2026-11-21",
+  "grades": {
+    "s1": {
+      "terms": {
+        "1": [
+          {
+            "title": "Lektion 1: Guten Tag. Mein Name ist ...",
+            "lessons": [
+              "A: jemanden begrüßen, sich verabschieden",
+              "B: nach dem Namen fragen; sich und andere mit Namen vorstellen",
+              "C: Herkunftsland erfragen und nennen; Sprachen benennen",
+              "D: Alphabet; Telefongespräch: nach jemandem fragen",
+              "E: Visitenkarten; Anmeldeformular"
+            ]
+          },
+          {
+            "title": "Lektion 2: Familie und Freunde",
+            "lessons": [
+              "A: nach dem Befinden fragen; Befinden ausdrücken",
+              "B: Familienmitglieder und Freunde vorstellen",
+              "C: Wohnort nennen",
+              "D: Zahlen: 0–20; Interview: Fragen zur Person; ein Formular ausfüllen",
+              "E: Angaben zu Personen machen / verstehen; sich vorstellen"
+            ]
+          },
+          {
+            "title": "Lektion 3: Essen und Trinken",
+            "lessons": [
+              "A: Dinge benennen",
+              "B: Mengen benennen",
+              "C: Einkaufsgespräche führen",
+              "D: Zahlen: 21 – 100; Preise, Gewichte und Maßeinheiten",
+              "E: Vorlieben ausdrücken"
+            ]
+          },
+          {
+            "title": "Lektion 4: Meine Wohnung",
+            "lessons": [
+              "A: nach einem Ort fragen; einen Ort nennen",
+              "B: eine Wohnung / ein Haus beschreiben; Gefallen / Missfallen ausdrücken",
+              "C: Möbel und Elektrogeräte benennen; Gefallen / Missfallen ausdrücken; Farben benennen",
+              "D: Zahlen: 100 – 1.000.000; Wohnungsanzeigen",
+              "E: einen Zeitungsartikel verstehen"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s2": {
+      "terms": {
+        "1": [
+          {
+            "title": "Lektion 5: Mein Tag",
+            "lessons": [
+              "A: Uhrzeit (inoffiziell) nennen",
+              "B: Alltagsaktivitäten nennen; Vorlieben ausdrücken",
+              "C: Wochentage nennen",
+              "D: Tagesablauf: Aktivitäten nennen",
+              "E: Schilder/Anrufbeantworter: Öffnungszeiten verstehen; Uhrzeit (offiziell)"
+            ]
+          },
+          {
+            "title": "Lektion 6: Freizeit",
+            "lessons": [
+              "A: Wetter / Jahreszeiten / Himmelsrichtungen beschreiben",
+              "B: Gespräche beim Einkauf und im Restaurant führen",
+              "C: im Gespräch zustimmen, widersprechen, verneinen",
+              "D: über Freizeit und Hobbys sprechen; Anzeigen lesen und schreiben",
+              "E: Wetterbericht"
+            ]
+          },
+          {
+            "title": "Lektion 7: Lernen – ein Leben lang",
+            "lessons": [
+              "A: Fähigkeiten ausdrücken",
+              "B: Absichten ausdrücken; seinen Willen äußern",
+              "C: von Ereignissen in der Vergangenheit berichten; Vergangenes beschreiben",
+              "D: über Aktivitäten in der Vergangenheit sprechen",
+              "E: einen Ratgeber-Text verstehen; über Lernziele und Lerngewohnheiten sprechen; etwas bewerten"
+            ]
+          },
+          {
+            "title": "Lektion 8: Beruf und Arbeit",
+            "lessons": [
+              "A: Berufe benennen und erfragen",
+              "B: Informationen über Vergangenheit und Gegenwart austauschen",
+              "C: von Ereignissen und Aktivitäten in der Vergangenheit berichten",
+              "D: Praktikumsbörse: Anzeigen verstehen",
+              "E: ungewöhnliche Berufe: Kurztexte verstehen"
+            ]
+          },
+          {
+            "title": "Lektion 9: In einer fremden Stadt",
+            "lessons": [
+              "A: Anweisungen geben / Abläufe erklären",
+              "B: Anweisungen und Ratschläge geben",
+              "C: über Erlaubtes/Verbotenes und Regeln sprechen",
+              "D: Informationsbroschüren verstehen",
+              "E: an der Hotelrezeption: nachfragen, um Erklärungen und Verständnishilfen bitten"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21"
+    },
+    "s3": {
+      "terms": {
+        "1": [
+          {
+            "title": "Lektion 10: Gesundheit",
+            "lessons": [
+              "A: Körperteile benennen; über das Befinden sprechen",
+              "B: über das Befinden anderer sprechen; das Aussehen beschreiben",
+              "C: Anweisungen und Ratschläge geben und verstehen",
+              "D: einen Brief (Anfrage) schreiben",
+              "E: einen Termin vereinbaren"
+            ]
+          },
+          {
+            "title": "Lektion 11: In der Stadt unterwegs",
+            "lessons": [
+              "A: nach dem Weg fragen und den Weg beschreiben; Verkehrsmittel benennen",
+              "B: Ortsangaben machen",
+              "C: Orte und Richtungen bestimmen",
+              "D: Fahrpläne: Informationen entnehmen; Durchsagen verstehen",
+              "E: am Bahnhof: um Auskunft bitten"
+            ]
+          },
+          {
+            "title": "Lektion 12: Der Kunde ist König",
+            "lessons": [
+              "A: Zeitangaben verstehen und machen",
+              "B: zeitliche Bezüge nennen; um Serviceleistungen bitten",
+              "C: höfliche Bitten und Aufforderungen ausdrücken",
+              "D: einen Informationstext verstehen",
+              "E: schriftliche Mitteilungen und Telefonansagen verstehen"
+            ]
+          },
+          {
+            "title": "Lektion 13: Neue Kleider",
+            "lessons": [
+              "A: Kleidungsstücke benennen und bewerten",
+              "B: Gefallen/Missfallen ausdrücken",
+              "C: Vorlieben und Bewertungen ausdrücken; einen Zeitungsartikel verstehen",
+              "D: Vorlieben erfragen, eine Auswahl treffen",
+              "E: im Kaufhaus: um Hilfe/Rat bitten"
+            ]
+          },
+          {
+            "title": "Lektion 14: Feste",
+            "lessons": [
+              "A: das Datum erfragen und nennen",
+              "B: über Personen und Dinge sprechen",
+              "C: Gründe angeben; einen Termin schriftlich absagen und zusagen",
+              "D: Einladungen lesen und schreiben",
+              "E: Feste nennen; Glückwünsche ausdrücken"
+            ]
+          }
+        ]
+      },
+      "source": "book",
+      "updated": "2026-11-21",
+      "fullYear": true
+    }
+  },
+  "note": "من فهرس كتب الوزارة الرسمية. الترم الثاني بيتضاف لما الوزارة تنزّل كتبه."
+}
