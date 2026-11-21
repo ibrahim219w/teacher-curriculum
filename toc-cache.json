@@ -5833,5 +5833,504 @@
         ]
       }
     ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf": {
+    "subject": "اللغة الإنجليزية - لغة ثانية",
+    "grade": "m3",
+    "term": "1",
+    "title": "اللغة الإنجليزية - لغة أجنبية ثانية",
+    "units": [
+      {
+        "title": "Unit 1: School Life",
+        "lessons": [
+          "School Life"
+        ]
+      },
+      {
+        "title": "Unit 2: My Town",
+        "lessons": [
+          "My Town"
+        ]
+      },
+      {
+        "title": "Unit 3: People",
+        "lessons": [
+          "People"
+        ]
+      }
+    ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/Arabic_language_STORY_Sec1_Tr1.pdf": {
+    "subject": "اللغة العربية",
+    "grade": "s1",
+    "term": "1",
+    "title": "اللغة العربية - القصة",
+    "units": [
+      {
+        "title": "أبو الفوارس",
+        "lessons": [
+          "مغنى القافلة",
+          "البطل الثائر",
+          "الطريق إلى الحقيقة",
+          "حوار ساخن",
+          "خطبة عبلة",
+          "البطل الحر",
+          "انتصار",
+          "علاقة قلقة",
+          "رحيل عبلة",
+          "حياة الغرباء",
+          "الفارس النبيل",
+          "المهر الغالى",
+          "رحلة المخاطر",
+          "إقامة كريمة",
+          "عودة إلى الديار",
+          "خاتمة سعيدة"
+        ]
+      }
+    ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/naho_general_TR1_1sec.pdf": {
+    "subject": "اللغة العربية",
+    "grade": "s1",
+    "term": "1",
+    "title": "اللغة العربية - القواعد الأساسية للنحو والصرف",
+    "units": [
+      {
+        "title": "الوحدة الأولى: الكلمة وأقسامها",
+        "lessons": [
+          "الكلام المفيد وأجزاؤه وأقسام الكلمة",
+          "علامات الاسم",
+          "علامات الفعل",
+          "علامات الحرف"
+        ]
+      },
+      {
+        "title": "الوحدة الثانية: الاسم وأقسامه",
+        "lessons": [
+          "الاسم مذكر أو مؤنث",
+          "الاسم: مفرد - مثنى - جمع",
+          "الاسم: نكرة - معرفة",
+          "الاسم: مقصور - منقوص - ممدود"
+        ]
+      },
+      {
+        "title": "الوحدة الثالثة: الفعل وأقسامه",
+        "lessons": [
+          "أقسام الفعل من حيث الزمن: الماضى - المضارع - الأمر",
+          "أقسام الفعل من حيث بنيته: معتل - صحيح",
+          "أقسام الفعل من حيث تَصَرُّفه: جامد - متصرف",
+          "أقسام الفعل من حيث معموله",
+          "أقسام الفعل من حيث تركيبه",
+          "اسم الفعل"
+        ]
+      },
+      {
+        "title": "الوحدة الرابعة: المعرب والمبنى من الأسماء والأفعال",
+        "lessons": [
+          "المعرب والمبنى من الأسماء",
+          "الأسماء الخمسة وإعرابها",
+          "الممنوع من الصرف",
+          "المعرب والمبنى من الأفعال",
+          "جزم الفعل المضارع فى جواب الطلب",
+          "المبنى من الأفعال وأحوال بنائها",
+          "الأفعال الخمسة وإعرابها"
+        ]
+      },
+      {
+        "title": "الوحدة الخامسة: مرفوعات الأسماء",
+        "lessons": [
+          "المبتدأ والخبر",
+          "كان وأخواتها",
+          "أفعال المقاربة والرجاء والشروع",
+          "إن وأخواتها",
+          "لا النافية للجنس",
+          "الفاعل",
+          "نائب الفاعل"
+        ]
+      },
+      {
+        "title": "الوحدة السادسة: منصوبات الأسماء",
+        "lessons": [
+          "المفعول به",
+          "المفعول المطلق",
+          "المفعول لأجله",
+          "المفعول معه",
+          "ظرفا الزمان والمكان",
+          "الحال وأنواعها",
+          "الاستثناء: وأنواعه",
+          "المنادى",
+          "التمييز"
+        ]
+      },
+      {
+        "title": "الوحدة السابعة: مجرورات الأسماء",
+        "lessons": [
+          "المجرور بحرف الجر",
+          "المجرور بالإضافة"
+        ]
+      },
+      {
+        "title": "الوحدة الثامنة: التوابع",
+        "lessons": [
+          "النعت",
+          "العطف",
+          "التوكيد",
+          "البدل"
+        ]
+      },
+      {
+        "title": "الوحدة التاسعة: الأساليب",
+        "lessons": [
+          "أسلوب الشرط",
+          "أسلوب القسم",
+          "أسلوب المدح والذم",
+          "أسلوب التعجب",
+          "أسلوب الإغراء والتحذير",
+          "أسلوب الاختصاص",
+          "أسلوب الاستفهام"
+        ]
+      },
+      {
+        "title": "الوحدة العاشرة: الجمل التى لها محل من الإعراب والجمل التى ليس لها محل من الإعراب",
+        "lessons": [
+          "الجمل التى لها محل من الإعراب",
+          "الجمل التى لا محل لها من الإعراب"
+        ]
+      },
+      {
+        "title": "الوحدة الحادية عشرة: الميزان الصرفى والمشتقات",
+        "lessons": [
+          "الميزان الصرفى",
+          "الكشف فى المعاجم",
+          "إسناد الأفعال إلى الضمائر",
+          "المصدر وصوغه",
+          "اسم الفاعل",
+          "صيغ المبالغة",
+          "اسم المفعول",
+          "الصفة المشبهة",
+          "اسم التفضيل",
+          "اسما الزمان والمكان",
+          "اسم الآلة"
+        ]
+      },
+      {
+        "title": "الوحدة الثانية عشرة: همزتا الوصل والقطع",
+        "lessons": [
+          "همزتا الوصل والقطع",
+          "علامات الترقيم"
+        ]
+      }
+    ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Arabic_language_NAHO_Sec3.pdf": {
+    "subject": "اللغة العربية",
+    "grade": "s3",
+    "term": "1",
+    "title": "اللغة العربية - القواعد الأساسية للنحو والصرف",
+    "units": [
+      {
+        "title": "الوحدة الأولى: الكلمة وأقسامها",
+        "lessons": [
+          "الكلام المفيد وأجزاؤه وأقسام الكلمة",
+          "علامات الاسم",
+          "علامات الفعل",
+          "علامات الحرف"
+        ]
+      },
+      {
+        "title": "الوحدة الثانية: الاسم وأقسامه",
+        "lessons": [
+          "الاسم مذكر أو مؤنث",
+          "الاسم: مفرد - مثنى - جمع",
+          "الاسم: نكرة - معرفة",
+          "الاسم: مقصور - منقوص - ممدود"
+        ]
+      },
+      {
+        "title": "الوحدة الثالثة: الفعل وأقسامه",
+        "lessons": [
+          "أقسام الفعل من حيث الزمن: الماضى - المضارع - الأمر",
+          "أقسام الفعل من حيث بنيته: معتل - صحيح",
+          "أقسام الفعل من حيث تَصَرُّفه: جامد - متصرف",
+          "أقسام الفعل من حيث معموله",
+          "أقسام الفعل من حيث تركيبه",
+          "اسم الفعل"
+        ]
+      },
+      {
+        "title": "الوحدة الرابعة: المعرب والمبنى من الأسماء والأفعال",
+        "lessons": [
+          "المعرب والمبنى من الأسماء",
+          "الأسماء الخمسة وإعرابها",
+          "الممنوع من الصرف",
+          "المعرب والمبنى من الأفعال",
+          "جزم الفعل المضارع فى جواب الطلب",
+          "المبنى من الأفعال وأحوال بنائها",
+          "الأفعال الخمسة وإعرابها"
+        ]
+      },
+      {
+        "title": "الوحدة الخامسة: مرفوعات الأسماء",
+        "lessons": [
+          "المبتدأ والخبر",
+          "كان وأخواتها",
+          "أفعال المقاربة والرجاء والشروع",
+          "إن وأخواتها",
+          "لا النافية للجنس",
+          "الفاعل",
+          "نائب الفاعل"
+        ]
+      },
+      {
+        "title": "الوحدة السادسة: منصوبات الأسماء",
+        "lessons": [
+          "المفعول به",
+          "المفعول المطلق",
+          "المفعول لأجله",
+          "المفعول معه",
+          "ظرفا الزمان والمكان",
+          "الحال وأنواعها",
+          "الاستثناء: وأنواعه",
+          "المنادى",
+          "التمييز"
+        ]
+      },
+      {
+        "title": "الوحدة السابعة: مجرورات الأسماء",
+        "lessons": [
+          "المجرور بحرف الجر",
+          "المجرور بالإضافة"
+        ]
+      },
+      {
+        "title": "الوحدة الثامنة: التوابع",
+        "lessons": [
+          "النعت",
+          "العطف",
+          "التوكيد",
+          "البدل"
+        ]
+      },
+      {
+        "title": "الوحدة التاسعة: الأساليب",
+        "lessons": [
+          "أسلوب الشرط",
+          "أسلوب القسم",
+          "أسلوب المدح والذم",
+          "أسلوب التعجب",
+          "أسلوب الإغراء والتحذير",
+          "أسلوب الاختصاص",
+          "أسلوب الاستفهام"
+        ]
+      },
+      {
+        "title": "الوحدة العاشرة: الجمل التى لها محل من الإعراب والجمل التى ليس لها محل من الإعراب",
+        "lessons": [
+          "الجمل التى لها محل من الإعراب",
+          "الجمل التى لا محل لها من الإعراب"
+        ]
+      },
+      {
+        "title": "الوحدة الحادية عشرة: الميزان الصرفى والمشتقات",
+        "lessons": [
+          "الميزان الصرفى",
+          "الكشف فى المعاجم",
+          "إسناد الأفعال إلى الضمائر",
+          "المصدر وصوغه",
+          "اسم الفاعل",
+          "صيغ المبالغة",
+          "اسم المفعول",
+          "الصفة المشبهة",
+          "اسم التفضيل",
+          "اسما الزمان والمكان",
+          "اسم الآلة"
+        ]
+      },
+      {
+        "title": "الوحدة الثانية عشرة: همزتا الوصل والقطع",
+        "lessons": [
+          "همزتا الوصل والقطع",
+          "علامات الترقيم"
+        ]
+      }
+    ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry2/Term1/StudentBook/Premiere_langue_francaise_SB_Sec2_Tr1-125.pdf": {
+    "subject": "اللغة الفرنسية - لغة أولى",
+    "grade": "s2",
+    "term": "1",
+    "title": "اللغة الفرنسية - لغة أجنبية أولى",
+    "units": [
+      {
+        "title": "Unité 1 : Famille / Condition féminine",
+        "lessons": [
+          "Famille / Condition féminine"
+        ]
+      },
+      {
+        "title": "Unité 2 : Ordinateur / Technologie",
+        "lessons": [
+          "Ordinateur / Technologie"
+        ]
+      },
+      {
+        "title": "Unité 3 : Environnement / Pollution",
+        "lessons": [
+          "Environnement / Pollution"
+        ]
+      },
+      {
+        "title": "Unité 4 : Santé / Action humanitaire",
+        "lessons": [
+          "Santé / Action humanitaire"
+        ]
+      },
+      {
+        "title": "Unité 5 : Argent, publicité, promotions",
+        "lessons": [
+          "Argent, publicité, promotions"
+        ]
+      },
+      {
+        "title": "Unité 6 : Enseignement des langues",
+        "lessons": [
+          "Enseignement des langues"
+        ]
+      }
+    ]
+  },
+  "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry3/Term1/StudentBook/Premiere_langue_francaise_SB_Sec3.pdf": {
+    "subject": "اللغة الفرنسية - لغة أولى",
+    "grade": "s3",
+    "term": "1",
+    "title": "اللغة الفرنسية - لغة أجنبية أولى",
+    "units": [
+      {
+        "title": "Leçon 1",
+        "lessons": [
+          "Une nouvelle créatrice",
+          "Curriculum vitae"
+        ]
+      },
+      {
+        "title": "Leçon 2",
+        "lessons": [
+          "Apprendre une langue étrangère",
+          "Quel type d'étudiant(e) êtes-vous?"
+        ]
+      },
+      {
+        "title": "Leçon 3",
+        "lessons": [
+          "Suppositions",
+          "Donner votre avis"
+        ]
+      },
+      {
+        "title": "Leçon 4",
+        "lessons": [
+          "Quelle époque !",
+          "Le gymnase de Nancy"
+        ]
+      },
+      {
+        "title": "Leçon 5",
+        "lessons": [
+          "La ligne des Cévennes",
+          "La protection d'un site naturel"
+        ]
+      },
+      {
+        "title": "Leçon 6",
+        "lessons": [
+          "La protection des animaux sauvages",
+          "Après la tempête"
+        ]
+      },
+      {
+        "title": "Leçon 7",
+        "lessons": [
+          "Les grands événements",
+          "La découverte"
+        ]
+      },
+      {
+        "title": "Leçon 8",
+        "lessons": [
+          "Coup de cœur",
+          "Le jean"
+        ]
+      },
+      {
+        "title": "Leçon 9",
+        "lessons": [
+          "L'entreprise en difficulté",
+          "Ces innovations, aux conséquences imprévisibles"
+        ]
+      },
+      {
+        "title": "Leçon 10",
+        "lessons": [
+          "Accidents de la route",
+          "Journée sans achats"
+        ]
+      },
+      {
+        "title": "Leçon 11",
+        "lessons": [
+          "Dépenses des Français",
+          "Différents types de lettres"
+        ]
+      },
+      {
+        "title": "Leçon 12",
+        "lessons": [
+          "Opinions",
+          "Un objet témoin de votre époque"
+        ]
+      },
+      {
+        "title": "Leçon 13",
+        "lessons": [
+          "Un chercheur",
+          "Une vie pour la science"
+        ]
+      },
+      {
+        "title": "Leçon 14",
+        "lessons": [
+          "Ecoles, écoles",
+          "La parole est aux parents"
+        ]
+      },
+      {
+        "title": "Leçon 15",
+        "lessons": [
+          "Projets",
+          "Pour une meilleure qualité de vie dans votre quartier"
+        ]
+      },
+      {
+        "title": "Leçon 16",
+        "lessons": [
+          "La terre se réchauffe",
+          "Effets du réchauffement de la planète"
+        ]
+      },
+      {
+        "title": "Leçon 17",
+        "lessons": [
+          "Deux femmes, deux générations",
+          "Paroles de parents et de jeunes"
+        ]
+      },
+      {
+        "title": "Leçon 18",
+        "lessons": [
+          "Un petit service",
+          "Les maladresses de Valentine"
+        ]
+      }
+    ]
   }
 }
